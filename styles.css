@@ -301,8 +301,3 @@ footer img {
     max-width: 1200px;
   }
 }
-@media (min-width: 1025px) {
-  main {
-    /* background-color: orangered; */
-  }
-}
